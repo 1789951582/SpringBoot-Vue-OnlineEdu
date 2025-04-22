@@ -14,11 +14,9 @@
 
 流程如图所示：
 
-![](M:\SpringBoot-Vue-OnlineEdu\markdownImage\aiJudgeFlowchart.png)
+![Fileter_transaction](https://github.com/1789951582/SpringBoot-Vue-OnlineEdu/blob/main/markdownImage/aiJudgeFlowchart.png?raw=true)
 
-效果：
-
-<img title="" src="file:///M:/SpringBoot-Vue-OnlineEdu/markdownImage/answerEffectDrawing.png" alt="" data-align="inline">
+<img title="" src="https://github.com/1789951582/SpringBoot-Vue-OnlineEdu/blob/main/markdownImage/answerEffectDrawing.png?raw=true" alt="" data-align="inline">
 
 ###AI对话
 
@@ -26,11 +24,11 @@
 
 针对题目的AI对话
 
-![](M:\SpringBoot-Vue-OnlineEdu\markdownImage\qusAichatEffectDrawing.png)
+![](https://github.com/1789951582/SpringBoot-Vue-OnlineEdu/blob/main/markdownImage/qusAichatEffectDrawing.png?raw=true)
 
 开放性场景AI对话
 
-![](M:\SpringBoot-Vue-OnlineEdu\markdownImage\openChatEffectDrawing.png)
+![](https://github.com/1789951582/SpringBoot-Vue-OnlineEdu/blob/main/markdownImage/openChatEffectDrawing.png?raw=true)
 
 ## 页面截图
 
@@ -38,41 +36,41 @@
 
 课程页面
 
-![](M:\SpringBoot-Vue-OnlineEdu\markdownImage\courseEffectDrawing.png)
+![](https://github.com/1789951582/SpringBoot-Vue-OnlineEdu/blob/main/markdownImage/courseEffectDrawing.png?raw=true)
 
 学习页面
 
-![](M:\SpringBoot-Vue-OnlineEdu\markdownImage\studyEffectDrawing.png)
+![](https://github.com/1789951582/SpringBoot-Vue-OnlineEdu/blob/main/markdownImage/studyEffectDrawing.png?raw=true)
 
 练习选项卡页面
 
-![](M:\SpringBoot-Vue-OnlineEdu\markdownImage\testEffectDrawing.png)
+![](https://github.com/1789951582/SpringBoot-Vue-OnlineEdu/blob/main/markdownImage/testEffectDrawing.png?raw=true)
 
 练习详情页面
 
-![](M:\SpringBoot-Vue-OnlineEdu\markdownImage\testInfoEffectDrawing.png)
+![](https://github.com/1789951582/SpringBoot-Vue-OnlineEdu/blob/main/markdownImage/testInfoEffectDrawing.png?raw=true)
 
 答题页面
 
-![](M:\SpringBoot-Vue-OnlineEdu\markdownImage\doTestEffectDrawing.png)
+![](https://github.com/1789951582/SpringBoot-Vue-OnlineEdu/blob/main/markdownImage/doTestEffectDrawing.png?raw=true)
 
 #### 教师端：
 
 章节/任务点发布界面(科目模块)
 
-![](M:\SpringBoot-Vue-OnlineEdu\markdownImage\chapterEffectDrawing.png)
+![](https://github.com/1789951582/SpringBoot-Vue-OnlineEdu/blob/main/markdownImage/chapterEffectDrawing.png?raw=true)
 
 章节/任务点管理界面(科目模块)
 
-![](M:\SpringBoot-Vue-OnlineEdu\markdownImage\taskEffectDrawing.png)
+![](https://github.com/1789951582/SpringBoot-Vue-OnlineEdu/blob/main/markdownImage/taskEffectDrawing.png?raw=true)
 
 练习发布界面(科目模块)
 
-![](M:\SpringBoot-Vue-OnlineEdu\markdownImage\testReleaseEffectDrawing.png)
+![](https://github.com/1789951582/SpringBoot-Vue-OnlineEdu/blob/main/markdownImage/testReleaseEffectDrawing.png?raw=true)
 
 题库管理界面(科目模块)
 
-![](M:\SpringBoot-Vue-OnlineEdu\markdownImage\queHubEffectDrawing.png)
+![](https://github.com/1789951582/SpringBoot-Vue-OnlineEdu/blob/main/markdownImage/queHubEffectDrawing.png?raw=true)
 
 ## 有待完善的地方
 
