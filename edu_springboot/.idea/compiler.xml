@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="online_edu_teacher" />
+        <module name="online_edu_core" />
+        <module name="online_edu_aichat" />
+        <module name="online_edu_student" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="edu_springboot" target="17" />
+      <module name="online_edu_aichat" target="17" />
+      <module name="online_edu_core" target="17" />
+      <module name="online_edu_student" target="17" />
+      <module name="online_edu_teacher" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="edu_springboot" options="-parameters" />
+      <module name="online_edu_aichat" options="-parameters" />
+      <module name="online_edu_core" options="-parameters" />
+      <module name="online_edu_student" options="-parameters" />
+      <module name="online_edu_teacher" options="-parameters" />
+    </option>
+  </component>
+</project>

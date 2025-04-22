@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/online_edu_student/pom.xml" />
+        <option value="$PROJECT_DIR$/online_edu_teacher/pom.xml" />
+        <option value="$PROJECT_DIR$/online_edu_core/pom.xml" />
+        <option value="$PROJECT_DIR$/online_edu_aichat/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="PDMPlugin">
+    <option name="skipTestSources" value="false" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="17 (3)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SuppressionsComponent">
+    <option name="suppComments" value="[]" />
+  </component>
+</project>

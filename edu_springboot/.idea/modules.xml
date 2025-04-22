@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/edu_springboot.iml" filepath="$PROJECT_DIR$/edu_springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online_edu_aichat/online_edu_aichat.iml" filepath="$PROJECT_DIR$/online_edu_aichat/online_edu_aichat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online_edu_core/online_edu_core.iml" filepath="$PROJECT_DIR$/online_edu_core/online_edu_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online_edu_student/online_edu_student.iml" filepath="$PROJECT_DIR$/online_edu_student/online_edu_student.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online_edu_teacher/online_edu_teacher.iml" filepath="$PROJECT_DIR$/online_edu_teacher/online_edu_teacher.iml" />
+    </modules>
+  </component>
+</project>

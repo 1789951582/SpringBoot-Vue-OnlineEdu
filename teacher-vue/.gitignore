@@ -1,0 +1,77 @@
+.DS_Store
+node_modules
+/dist
+
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# 忽略构建输出目录
+/dist
+/dist-ssr
+
+# 忽略node_modules目录，里面包含所有npm/yarn安装的依赖包
+/node_modules
+
+# 忽略.env文件，这些文件通常用于存储环境变量，可能包含敏感信息
+/.env*
+!/example.env # 如果你有一个示例.env文件希望保留，请取消忽略
+
+# 忽略本地开发时生成的文件和目录
+/src/assets/images/generated
+
+# 忽略编辑器/IDE特定的文件或目录
+/.idea
+/.vscode
+*.sublime-project
+*.sublime-workspace
+
+# 忽略操作系统生成的文件
+.DS_Store
+Thumbs.db
+
+# 忽略日志文件
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 忽略PWA服务工作者生成的文件
+/service-worker.js
+/precache-manifest.*.js
+/workbox-*.js
+
+# 忽略测试报告
+/coverage
+
+# 忽略临时文件
+*.tmp
+*.bak
+
+# 忽略其他工具生成的文件
+/tags
+/nuxt.config.js # 如果你不使用Nuxt.js，请移除这一行
+.eslintcache
+.huskyrc.json # 如果你不使用husky，请移除这一行
+
+# 忽略.git相关文件（默认已忽略，这里明确列出）
+.gitattributes
+.gitmodules
+
+# 忽略vue-cli-service自动生成的配置文件
+/vue.config.js
