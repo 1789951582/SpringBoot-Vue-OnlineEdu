@@ -14,9 +14,9 @@
 
 流程如图所示：
 
-![Fileter_transaction](https://github.com/1789951582/SpringBoot-Vue-OnlineEdu/blob/main/markdownImage/aiJudgeFlowchart.png?raw=true)
+![Fileter_transaction](https://gitee.com/XiaoHao223/SpringBoot-Vue-OnlineEdu/raw/main/markdownImage/aiJudgeFlowchart.png)
 
-<img title="" src="https://github.com/1789951582/SpringBoot-Vue-OnlineEdu/blob/main/markdownImage/answerEffectDrawing.png?raw=true" alt="" data-align="inline">
+<img title="" src="https://gitee.com/XiaoHao223/SpringBoot-Vue-OnlineEdu/raw/main/markdownImage/answerEffectDrawing.png" alt="" data-align="inline">
 
 ###AI对话
 
@@ -24,11 +24,11 @@
 
 针对题目的AI对话
 
-![](https://github.com/1789951582/SpringBoot-Vue-OnlineEdu/blob/main/markdownImage/qusAichatEffectDrawing.png?raw=true)
+![](https://gitee.com/XiaoHao223/SpringBoot-Vue-OnlineEdu/raw/main/markdownImage/qusAichatEffectDrawing.png)
 
 开放性场景AI对话
 
-![](https://github.com/1789951582/SpringBoot-Vue-OnlineEdu/blob/main/markdownImage/openChatEffectDrawing.png?raw=true)
+![](https://gitee.com/XiaoHao223/SpringBoot-Vue-OnlineEdu/raw/main/markdownImage/openChatEffectDrawing.png)
 
 ## 页面截图
 
@@ -36,41 +36,41 @@
 
 课程页面
 
-![](https://github.com/1789951582/SpringBoot-Vue-OnlineEdu/blob/main/markdownImage/courseEffectDrawing.png?raw=true)
+![](https://gitee.com/XiaoHao223/SpringBoot-Vue-OnlineEdu/raw/main/markdownImage/courseEffectDrawing.png)
 
 学习页面
 
-![](https://github.com/1789951582/SpringBoot-Vue-OnlineEdu/blob/main/markdownImage/studyEffectDrawing.png?raw=true)
+![](https://gitee.com/XiaoHao223/SpringBoot-Vue-OnlineEdu/raw/main/markdownImage/studyEffectDrawing.png)
 
 练习选项卡页面
 
-![](https://github.com/1789951582/SpringBoot-Vue-OnlineEdu/blob/main/markdownImage/testEffectDrawing.png?raw=true)
+![](https://gitee.com/XiaoHao223/SpringBoot-Vue-OnlineEdu/raw/main/markdownImage/testEffectDrawing.png)
 
 练习详情页面
 
-![](https://github.com/1789951582/SpringBoot-Vue-OnlineEdu/blob/main/markdownImage/testInfoEffectDrawing.png?raw=true)
+![](https://gitee.com/XiaoHao223/SpringBoot-Vue-OnlineEdu/raw/main/markdownImage/testInfoEffectDrawing.png)
 
 答题页面
 
-![](https://github.com/1789951582/SpringBoot-Vue-OnlineEdu/blob/main/markdownImage/doTestEffectDrawing.png?raw=true)
+![](https://gitee.com/XiaoHao223/SpringBoot-Vue-OnlineEdu/raw/main/markdownImage/doTestEffectDrawing.png)
 
 #### 教师端：
 
 章节/任务点发布界面(科目模块)
 
-![](https://github.com/1789951582/SpringBoot-Vue-OnlineEdu/blob/main/markdownImage/chapterEffectDrawing.png?raw=true)
+![](https://gitee.com/XiaoHao223/SpringBoot-Vue-OnlineEdu/raw/main/markdownImage/chapterEffectDrawing.png)
 
 章节/任务点管理界面(科目模块)
 
-![](https://github.com/1789951582/SpringBoot-Vue-OnlineEdu/blob/main/markdownImage/taskEffectDrawing.png?raw=true)
+![](https://gitee.com/XiaoHao223/SpringBoot-Vue-OnlineEdu/raw/main/markdownImage/taskEffectDrawing.png)
 
 练习发布界面(科目模块)
 
-![](https://github.com/1789951582/SpringBoot-Vue-OnlineEdu/blob/main/markdownImage/testReleaseEffectDrawing.png?raw=true)
+![](https://gitee.com/XiaoHao223/SpringBoot-Vue-OnlineEdu/raw/main/markdownImage/testReleaseEffectDrawing.png)
 
 题库管理界面(科目模块)
 
-![](https://github.com/1789951582/SpringBoot-Vue-OnlineEdu/blob/main/markdownImage/queHubEffectDrawing.png?raw=true)
+![](https://gitee.com/XiaoHao223/SpringBoot-Vue-OnlineEdu/raw/main/markdownImage/queHubEffectDrawing.png)
 
 ## 有待完善的地方
 
